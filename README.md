@@ -65,7 +65,3 @@ ID: Identificador único (Auto-incremento).
 CLIENTE: Nome do investidor ou cliente.
 
 VALOR: Valor monetário da transação.
-
-🎥 Demonstração
-O funcionamento completo desta solução, desde a subida dos containers até a persistência dos dados, pode ser visualizado no vídeo de entrega do projeto.
-**Sua entrega está com uma cara excelente agora!** O CRUD está validado, o banco está persistindo e a documentação está protegida. Mais algum detalhe que queira ajustar?
