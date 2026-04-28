@@ -6,7 +6,7 @@ João Pedro Pereira Camilo | RM562005
 Lucas Matsubara Reis | RM565020
 Pamella Christiny Chaves Brito | 565206
 
-Link do video:
+Link do video:https://youtu.be/BW3W2jYLk1s
 
 ## 🏗️ Arquitetura da Solução
 
