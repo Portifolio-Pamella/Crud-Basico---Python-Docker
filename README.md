@@ -12,7 +12,7 @@ Este projeto é uma aplicação de gerenciamento financeiro desenvolvida para o 
 
 ## 🎥 Demonstração
 O funcionamento completo desta solução, desde a subida dos containers até a persistência dos dados, pode ser visualizado no vídeo de entrega:
-[Link do vídeo no YouTube](https://youtu.be/BW3W2jYLk1s)
+[Link do vídeo no YouTube](https://youtu.be/yPMTK1XcZVg)
 
 ---
 
