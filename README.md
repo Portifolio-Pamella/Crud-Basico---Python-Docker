@@ -1,4 +1,4 @@
-# Projeto DimDim 💰 - Sistema de Gestão de Transações
+# Projeto DimDim - Sistema de Gestão de Transações
 
 Este projeto é uma aplicação de gerenciamento financeiro desenvolvida para o Checkpoint 2 da disciplina de DevOps & Cloud. A solução demonstra a integração de uma aplicação Python com um banco de dados relacional robusto (Oracle) utilizando containers Docker.
 
