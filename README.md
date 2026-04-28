@@ -2,6 +2,12 @@
 
 Este projeto é uma aplicação de gerenciamento financeiro desenvolvida para o Checkpoint 2 da disciplina de DevOps & Cloud. A solução demonstra a integração de uma aplicação Python com um banco de dados relacional robusto (Oracle) utilizando containers Docker.
 
+João Pedro Pereira Camilo | RM562005
+Lucas Matsubara Reis | RM565020
+Pamella Christiny Chaves Brito | 565206
+
+Link do video:
+
 ## 🏗️ Arquitetura da Solução
 
 A aplicação segue o modelo cliente-servidor em ambiente containerizado:
@@ -62,14 +68,4 @@ VALOR: Valor monetário da transação.
 
 🎥 Demonstração
 O funcionamento completo desta solução, desde a subida dos containers até a persistência dos dados, pode ser visualizado no vídeo de entrega do projeto.
-
-Desenvolvido por: Pamella Christiny Chaves Brito
-
-
----
-
-### Dicas para manter a privacidade:
-1.  **No Código:** No seu `app.py`, você pode deixar um comentário onde vai a senha: `password = "SUA_SENHA"` para que quem baixar saiba que precisa trocar.
-2.  **Arquivo `.gitignore`:** Se você quiser ser ainda mais profissional, crie um arquivo chamado `.gitignore` e escreva o nome de qualquer arquivo que contenha senhas reais dentro dele. Assim, o Git nunca vai "subir" suas credenciais por acidente.
-
 **Sua entrega está com uma cara excelente agora!** O CRUD está validado, o banco está persistindo e a documentação está protegida. Mais algum detalhe que queira ajustar?
